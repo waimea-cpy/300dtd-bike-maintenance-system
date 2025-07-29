@@ -19,12 +19,12 @@ This is project for the design and creation of a system that allows someone to t
 - When a repeating task is marked as complete, it will be marked as incomplete again after a set amount of time
 
 
-
 ---
 
 ## Project Links
 
 - [GitHub repo for the project](https://github.com/waimea-cpy/300dtd-bike-maintenance-system)
+- [Project Documentation](https://waimea-cpy.github.io/300dtd-bike-maintenance-system)
 - [Live web app](https://...)
 
 
@@ -68,6 +68,5 @@ The project demonstrates a number of **complex digital media (web) techniques**:
 - Using dynamic data handling and interactivity
 - Automation through scripts
 
-** EDIT THESE LISTS ABOVE TO MATCH YOUR PROJECT**
 
 
